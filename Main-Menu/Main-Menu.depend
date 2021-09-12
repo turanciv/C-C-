@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1630842142 source:c:\users\patat\desktop\c programming\codeblocks\main-menu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+	<dirent.h>
+	<unistd.h>
+
